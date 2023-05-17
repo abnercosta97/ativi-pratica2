@@ -1,0 +1,21 @@
+{
+  "name": "ativi-pratica2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "um": "node ./src/exer1",
+    "dois": "node ./src/exer2",
+    "tres": "node ./src/exer3",
+    "quatro": "node ./src/exer4",
+    "cinco": "node ./src/exer5",
+    "seis": "node ./src/exer6",
+    "sete": "node ./src/exer7",
+    "oito": "node ./src/exer8",
+    "nove": "node ./src/exer9",
+    "dez": "node ./src/exer10"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
